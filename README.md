@@ -1,5 +1,6 @@
 # OGZ
-
+### This project was co-developed during the 2022 PolyU FinTech Hackathon. Our team placed in the Top 10.
+## Introduction
 Hi, there!
 
 Welcome to our Flutter App!
@@ -7,9 +8,8 @@ Welcome to our Flutter App!
 Our team of 5 worked tirelessly to build 36 screens with over 25000+ lines of pure DART code haha. Surreal, isn't it?
 
 Please visit OGZ/lib/presentation/ to see the DART technical code of each of the screen.
-
+### Insights
 Also, bear in  mind that to see the:
-
 
 1. Prototype Decoration at OGZ/lib/theme/app_decoration.dart
 
